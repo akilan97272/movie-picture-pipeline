@@ -36,4 +36,6 @@
 .vscode/
 .idea/
 *.swp
-.DS_Store
+.DS_Storesetup/terraform/.terraform/
+setup/terraform/terraform.tfstate
+setup/terraform/terraform.tfstate.backup
