@@ -98,3 +98,4 @@ jobs:
             --build-arg REACT_APP_MOVIE_API_URL="$REACT_APP_MOVIE_API_URL" \
             --tag mp-frontend:ci \
             .
+            
